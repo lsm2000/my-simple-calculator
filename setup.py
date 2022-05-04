@@ -13,8 +13,8 @@ setuptools.setup (
   long_description = 'oss-dev my simple calc',
   long_description_content_type = 'text/markdown',
   classifiers = [
-     "Programming Language :: python :: 3 ",
-    "Operationg System :: OS Independent",
+     "Programming Language :: Python :: 3 ",
+     "Operationg System :: OS Independent",
   ],
 )
   

@@ -1,0 +1,8 @@
+print("첫번째 숫자를 입력하세요")
+num1 = eval(input('Enter a number: '))
+print("두번째 숫자를 입력하세요")
+num2 = eval(input('Enter a number: '))
+print(' num1+num2 =',num1+num2)
+print(' num1-num2 =',num1-num2)
+print(' num1*num2 =',num1*num2)
+print(' num1/num2 =',num1/num2)
